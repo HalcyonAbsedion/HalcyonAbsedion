@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @HalcyonAbsedion
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me email
 
